@@ -1,5 +1,3 @@
-![Sagnik Mandal](https://github.com/yalematta/yalematta/blob/master/banner.jpg)
-
 <p align="center">
   <img src="https://octodex.github.com/images/welcometocat.png" title="You're here? You did it!" width="130">
   <img src="https://octodex.github.com/images/femalecodertocat.png" title="But first, Coffee!" width="130">
